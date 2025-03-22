@@ -15,3 +15,4 @@
 
 - `EX001`: Foi aprendido a Estrutura do HTML
 - `EX002`: Foi aprendido Parágrafos e quebras de linhas
+- `EX003`: Foi aprendido a adicionar emojis e simbolos especiais
