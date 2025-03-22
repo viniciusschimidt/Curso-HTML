@@ -11,3 +11,7 @@
 - `Descrição`: Estou aprendendo o basico para a iniciação de projetos dentro da faculdade e também para aprendizagem para futuros projetos.
 
 
+<h1 align="center"><bold>EXERCICIOS</bold></h1>
+
+- `EX001`: Foi aprendido a Estrutura do HTML
+- `EX002`: Foi aprendido Parágrafos e quebras de linhas
