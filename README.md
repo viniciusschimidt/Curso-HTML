@@ -3,7 +3,7 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20Aprendendo&color=GREEN&style=for-the-badge"/>
 </p>
 
-:hammer: O que vai ser foi aprendido?
+:hammer: O que foi aprendido?
 
 - `Linguagem`: Criar e aplicar classes para estilização personalizada;
 
