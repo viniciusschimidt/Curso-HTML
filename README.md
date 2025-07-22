@@ -14,9 +14,3 @@
 - `Linguagem`Importar e aplicar fontes externas no projeto para melhorar a identidade visual.
 
 
-
-<h1 align="center"><bold>EXERCICIOS</bold></h1>
-
-- `EX001`: Foi aprendido a Estrutura do HTML
-- `EX002`: Foi aprendido Parágrafos e quebras de linhas
-- `EX003`: Foi aprendido a adicionar emojis e simbolos especiais
